@@ -1,6 +1,5 @@
 # cespedverde.github.io
 Servicio de Jardinería
-index.html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -57,7 +56,6 @@ index.html
     <script src="script.js"></script>
 </body>
 </html>
-styles.css
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -134,7 +132,6 @@ footer {
     background-color: #333;
     color: white;
 }
-script.js
 document.getElementById('contact-form').addEventListener('submit', function(event) {
     event.preventDefault();
 
